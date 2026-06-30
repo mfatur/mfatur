@@ -16,4 +16,4 @@ This portfolio showcases projects that demonstrate my analytical thinking and te
 ## Skill
 SQL · Python · Pandas · Tableau · Power BI · Excel · Statistics
 
-💼 https://www.linkedin.com/in/mfaturr/ | 📧 faturrahman9.fr@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/mfaturr/) | 📧 faturrahman9.fr@gmail.com
