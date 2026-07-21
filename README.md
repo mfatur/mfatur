@@ -12,8 +12,9 @@ This portfolio showcases projects that demonstrate my analytical thinking and te
 |--------|-------|
 | [Data Analyst Portofolio](https://github.com/mfatur/Data-Analyst-Portfolio) | A collection of my Data Analyst projects using SQL, Excel, Python, Tableau, and Power BI. |
 | [Data Analyst AI Assistant](https://github.com/mfatur/Data-Analyst-AI-Assistant) | Final Project for the LLM-Based Tools and Gemini API Integration for Data Scientists from Hactiv8. |
+| [Sales Performance Ai Agent](https://github.com/mfatur/Sales-Performance-AI-Agent) | An AI-powered retail sales analytics agent built with Langflow that automates data cleaning, KPI calculations, and interactive question |
 
 ## Skill
-SQL · Python · Pandas · Tableau · Power BI · Excel · Statistics
+SQL · Python · Pandas · Tableau · Power BI · Excel · Statistics · Langflow
 
 💼 [LinkedIn](https://www.linkedin.com/in/mfaturr/) | 📧 faturrahman9.fr@gmail.com
