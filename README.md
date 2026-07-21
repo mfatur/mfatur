@@ -1,5 +1,5 @@
 # Halo, i,m Muhammad Faturrahman
-Data Analyst | SQL · Excel · Python · Tableau |
+Data Analyst | Data Visualization | Data Science
 West Java, Indonesia · Open to work
 
 ## About me
