@@ -1,11 +1,17 @@
 # Halo, i,m Muhammad Faturrahman
-Data Analyst | Data Science ·
+AI Engineer | Generative AI & LLM Agent Developer - RAG, LangGraph, Gemini API | Python | AI Native Engineer | Agentic AI
 West Java, Indonesia · Open to work
 
 ## About me
-Hi, I'm Muhammad Faturrahman, an Informatics graduate with a strong passion for Data Analytics. I enjoy transforming raw data into meaningful insights that support better business decisions. My technical skills include SQL, Microsoft Excel, Python, Tableau, and Power BI, along with experience in data cleaning, data visualization, exploratory data analysis, dashboard development, and data storytelling.
+Hi, I'm Muhammad Faturrahman, an AI Engineer focused on building agentic, LLM-powered systems that reason, decide, and act — not just generate text.
 
-This portfolio showcases projects that demonstrate my analytical thinking and technical skills. Each project follows a complete data analysis workflow—from data preparation and SQL querying to visualization and business insights. Through these projects, I aim to present data in a clear, meaningful, and actionable way.
+I work at the intersection of Generative AI, LLM Agents, and Retrieval-Augmented Generation (RAG), designing systems using LangGraph and integrating LLM APIs such as Gemini and Llama to solve real-world business problems.
+
+Recently, I built a Sales Performance AI Agent - a multi-tool agent capable of cleaning data, calculating business KPIs, drilling down into data by category/region/customer, and generating executive summaries through LLM reasoning, developed under the IBM SkillsBuild University program in collaboration with IBM and Hacktive8.
+
+As an AI Native Engineer, I think in terms of agents, tools, and reasoning chains rather than static pipelines — designing systems where AI doesn't just assist, but actively completes tasks.
+
+Currently open to opportunities as an AI Engineer / Generative AI & LLM Agent Developer. Open to connect and collaborate on anything Agentic AI or LLM-related!
 
 ## Portfolio project
 | Project | Topic |
