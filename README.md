@@ -1,6 +1,6 @@
 # Halo, i,m Muhammad Faturrahman
 AI Engineer | Generative AI & LLM Agent Developer - RAG, LangGraph, Gemini API | Python | AI Native Engineer | Agentic AI
-West Java, Indonesia · Open to work
+#### West Java, Indonesia · Open to work
 
 ## About me
 Hi, I'm Muhammad Faturrahman, an AI Engineer focused on building agentic, LLM-powered systems that reason, decide, and act — not just generate text.
