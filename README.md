@@ -21,6 +21,6 @@ Currently open to opportunities as an AI Engineer / Generative AI & LLM Agent De
 | [Sales Performance Ai Agent](https://github.com/mfatur/Sales-Performance-AI-Agent) | An AI-powered retail sales analytics agent built with Langflow that automates data cleaning, KPI calculations, and interactive question |
 
 ## Skill
-SQL · Python · Pandas · Tableau · Power BI · Excel · Statistics · Langflow
+Python · LangGraph · Langflow · RAG · Prompt Engineering · LLM API Integration · Agentic AI
 
 💼 [LinkedIn](https://www.linkedin.com/in/mfaturr/) | 📧 faturrahman9.fr@gmail.com
