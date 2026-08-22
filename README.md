@@ -19,6 +19,7 @@ Currently open to opportunities as an AI Engineer / Generative AI & LLM Agent De
 | [Data Analyst Portofolio](https://github.com/mfatur/Data-Analyst-Portfolio) | A collection of my Data Analyst projects using SQL, Excel, Python, Tableau, and Power BI. |
 | [Data Analyst AI Assistant](https://github.com/mfatur/Data-Analyst-AI-Assistant) | Final Project for the LLM-Based Tools and Gemini API Integration for Data Scientists from Hactiv8. |
 | [Sales Performance Ai Agent](https://github.com/mfatur/Sales-Performance-AI-Agent) | An AI-powered retail sales analytics agent built with Langflow that automates data cleaning, KPI calculations, and interactive question |
+| [Enterprise Operations AI Agent](https://github.com/mfatur/enterprise-operations-ai-agent) | An AI-powered sales intelligence application that combines FastAPI, LangGraph, Gemini, PostgreSQL, and a web-based dashboard to analyze sales data through natural-language questions |
 
 ## Skill
 Python · LangGraph · Langflow · RAG · Prompt Engineering · LLM API Integration · Agentic AI
