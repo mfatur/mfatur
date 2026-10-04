@@ -1,8 +1,8 @@
-# Hi, I'm Muhammad Faturrahman 👋
+# Hi, I'm Muhammad Faturrahman 
 
-**AI Engineer (fresh graduate)** building RAG systems, LLM agents, and fine-tuned small models.
+**AI/ML Engineer** | RAG, AI Agents (LangGraph) & LoRA Fine-tuning | FastAPI, Hugging Face, Python
 
-📍 Tasikmalaya, Indonesia · 💼 Open to AI/ML roles (full-time and internships)
+Tasikmalaya, Indonesia · 💼 Open to AI/ML roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaturr/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/mfatur)
