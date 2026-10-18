@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Faturrahman 
 
-**AI/ML Engineer** | RAG, AI Agents (LangGraph) & LoRA Fine-tuning | FastAPI, Hugging Face, Python
+**AI/ML Engineer** | Generative AI, LLM Applications, RAG, AI Agents | Python, FastAPI, LangGraph, LangChain, Hugging Face
 
 Tasikmalaya, Indonesia · 💼 Open to AI/ML roles
 
