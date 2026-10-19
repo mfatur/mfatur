@@ -12,7 +12,7 @@ Tasikmalaya, Indonesia · 💼 Open to AI/ML roles
 
 | Project | What it is | Stack |
 |---|---|---|
-| [RAG-System](https://github.com/mfatur/RAG-System) | RAG for customer support tickets, evaluated with RAGAS, plus a LoRA-tuned answer generator ([model on Hugging Face](https://huggingface.co/mfatur/qwen2.5-0.5b-ticket-rag-lora)) | LangChain, ChromaDB, CrossEncoder, RAGAS, Transformers, PEFT |
+| [rag-customer-support-tickets](https://github.com/mfatur/RAG-System) | RAG for customer support tickets, evaluated with RAGAS, plus a LoRA-tuned answer generator ([model on Hugging Face](https://huggingface.co/mfatur/qwen2.5-0.5b-ticket-rag-lora)) | LangChain, ChromaDB, CrossEncoder, RAGAS, Transformers, PEFT |
 | [Enterprise Operations AI Agent](https://github.com/mfatur/enterprise-operations-ai-agent) | Sales intelligence app: natural-language questions answered by a LangGraph agent calling SQL-backed tools | FastAPI, LangGraph, Gemini, PostgreSQL |
 | [Sales Performance AI Agent](https://github.com/mfatur/Sales-Performance-AI-Agent) | Retail analytics agent: data cleaning, KPIs, drill-down, executive summaries (IBM SkillsBuild x Hacktiv8 capstone) | Langflow, Llama 3.1, Groq |
 | [Data Analyst AI Assistant](https://github.com/mfatur/Data-Analyst-AI-Assistant) | Chat assistant for learning data analytics (Hacktiv8 x Maju Bareng AI final project) | Streamlit, Gemini API |
